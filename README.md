@@ -7,4 +7,4 @@ A little about me:
 - I am taking STATS 220 because I'm interested in the coding side of stats, and want to learn more.
 - I am interested in learning about anything to do with R.
   
-A meme that captures how I currently feel about my university studies is ![](https://tenor.com/en-GB/view/coffee-penguin-books-study-writing-gif-6371321956840724946)
+A meme that captures how I currently feel about my university studies is ![] (https://tenor.com/en-GB/view/coffee-penguin-books-study-writing-gif-6371321956840724946)
