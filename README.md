@@ -12,5 +12,4 @@ A meme that captures how I currently feel about my university studies is [this](
 My Websites:
 1. I love to do the [Wordle](https://www.nytimes.com/games/wordle/index.html)
 2. What's the [weather](https://www.metservice.com/towns-cities/regions/auckland/locations/auckland) like?
-
 * *Have a good day!*
