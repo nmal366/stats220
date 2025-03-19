@@ -1,7 +1,7 @@
 ## stats220
 **This is my repo for STATS 220.**
 
-#A little about me:
+# A little about me:
 
 - I am undertaking a degree in Statistics.
 - I am taking STATS 220 because I'm interested in the coding side of stats, and want to learn more.
